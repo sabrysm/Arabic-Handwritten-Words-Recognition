@@ -27,6 +27,7 @@
       * Different handwriting style.
       * The same word written by optical characters.
       * Different computer Arabic fonts.
+    * [Dataset used](https://github.com/MuhammadWael/Arabic-words-dataset)
 * Preprocessing:
   * Resize images to 150x150 pixels.
   * Normalize pixel values to [0, 1].
@@ -40,3 +41,4 @@
   * Metrics: Training Accuracy: %99.34  Validation accuracy: %96.57
 ## 6. Evaluation Metrics
   * Accuracy on a separate test set of 25 images was %84
+    ![image](https://i.imgur.com/CU0YffC.png)

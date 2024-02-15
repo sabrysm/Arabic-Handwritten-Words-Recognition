@@ -42,3 +42,6 @@
 ## 6. Evaluation Metrics
   * Accuracy on a separate test set of 25 images was %84
     ![image](https://i.imgur.com/CU0YffC.png)
+## Contributors:
+* [Muhammad Wael](https://github.com/MuhammadWael)
+* [Abdelrahman Sabry](https://github.com/sabrysm)
